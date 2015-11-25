@@ -1,5 +1,7 @@
 h1. Open TortoiseSVN (Firefox add-on)
 
+!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/Morph81/open_tortoise_svn)!:https://gitter.im/Morph81/open_tortoise_svn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 h2. Overview
 
 * This Firefox Addon enables you to open TortoiseSVN directly when you click the link to the registered URLs.
